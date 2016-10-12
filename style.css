@@ -1,0 +1,49 @@
+header {
+    color: white;
+    position: fixed;
+    border: 15px;
+    width: 100%;
+    background-image: url("http://getbg.net/upload/full/515905_abstrakciya_strelki_1920x1080_(www.GetBg.net).jpg");
+    top: 0;
+    left: 0;
+          }
+div {
+    display: inline-block;
+
+}
+body{
+    margin-top: 200px;
+    background-color: lemonchiffon;
+}
+.foto{
+    position: absolute;
+    top: 10px;
+}
+p{
+    font-family: Arial;
+    font-size: 18;
+}
+h1{
+    font-family: Arial;
+    font-size: 36;
+}
+h2{
+      font-family: Arial;
+      font-size: 24;
+  }
+ol{
+    font-family: Arial;
+    font-size: 18;
+}
+span{
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+footer{
+    background-image: url("http://cdn.wall-pix.net/albums/art-abstract/00032750.jpg");
+    padding: 10px;
+       bottom: 0;
+    left: 0;
+    right: 0;
+}
